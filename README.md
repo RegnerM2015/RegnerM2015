@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Matt
 
-- I'm a 4th year Ph.D. Candidate in the [Curriculum of Bioinformatics and Computational Biology](https://bcb.unc.edu/) at UNC Chapel Hill
+- I'm a Ph.D. Candidate in the [Curriculum of Bioinformatics and Computational Biology](https://bcb.unc.edu/) at UNC Chapel Hill
 - I develop and apply bioinformatics methods to study gene regulation in human cancer in the [Franco Lab](https://www.thefrancolab.org/)
 
 ## 📚 Featured Projects 👨‍💻
