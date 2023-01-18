@@ -12,5 +12,7 @@
   - [Paper](https://www.cell.com/molecular-cell/fulltext/S1097-2765(21)00842-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS109727652100842X%3Fshowall%3Dtrue)
   - [Repo](https://github.com/RegnerM2015/scENDO_scOVAR_2020)
 
-
+## 📊 GitHub Statistics 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegnerM2015&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RegnerM2015&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
