@@ -11,3 +11,6 @@
 - "A multi-omic single-cell landscape of human gynecologic malignancies" (Regner & Wisniewska et al., 2021 *Molecular Cell*)
   - [Paper](https://www.cell.com/molecular-cell/fulltext/S1097-2765(21)00842-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS109727652100842X%3Fshowall%3Dtrue)
   - [Repo](https://github.com/RegnerM2015/scENDO_scOVAR_2020)
+
+
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegnerM2015&hide=contribs,prs)
