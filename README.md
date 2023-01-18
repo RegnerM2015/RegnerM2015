@@ -15,3 +15,4 @@
 ## 📊 GitHub Statistics 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegnerM2015&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RegnerM2015)](https://github.com/RegnerM2015/github-readme-stats)
