@@ -13,4 +13,4 @@
   - [Repo](https://github.com/RegnerM2015/scENDO_scOVAR_2020)
 
 ## 📊 GitHub Statistics 
-![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegnerM2015,prs)
+![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=RegnerM2015)
