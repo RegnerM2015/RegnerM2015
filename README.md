@@ -1,9 +1,9 @@
-## 👋 Hi, I'm Matt
+## Hi, I'm Matt
 
 - I'm a Ph.D. Candidate in the [Curriculum of Bioinformatics and Computational Biology](https://bcb.unc.edu/) at UNC Chapel Hill
 - I develop and apply bioinformatics methods to study gene regulation in human cancer in the [Franco Lab](https://www.thefrancolab.org/)
 
-## 📚 Featured Projects 👨‍💻
+## Featured Projects
 
 - "A multi-omic dissection of super-enhancer driven oncogenic gene expression programs in ovarian cancer" (Kelly & Wisniewska et al., 2022 *Nature Communications*)
   - [Paper](https://www.nature.com/articles/s41467-022-31919-8)
