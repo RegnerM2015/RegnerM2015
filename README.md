@@ -1,6 +1,6 @@
 ## Hi, I'm Matt
 
-- I'm a Ph.D. Candidate in the [Curriculum of Bioinformatics and Computational Biology](https://bcb.unc.edu/) at UNC Chapel Hill
+- I recently graduated with a PhD in Bioinformatics and Computational Biology from UNC Chapel Hill
 - I develop and apply bioinformatics methods to study gene regulation in human cancer at the UNC Lineberger Comprehensive Cancer Center
 
 ## Featured Projects
