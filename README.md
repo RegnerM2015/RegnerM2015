@@ -1,7 +1,7 @@
 ## Hi, I'm Matt
 
 - I recently graduated with a PhD in Bioinformatics and Computational Biology from UNC Chapel Hill
-- I develop and apply bioinformatics methods to study gene regulation in human cancer at the UNC Lineberger Comprehensive Cancer Center
+- I develop and apply bioinformatics methods to study gene regulation in human cancer
 
 ## Featured Projects
 
